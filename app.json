@@ -1,0 +1,19 @@
+{
+  "name": "line-nullpo",
+  "description": "nullpo watcher for LINE",
+  "repository": "https://github.com/qckanemoto/line-nullpo.git",
+  "logo": "https://slack.global.ssl.fastly.net/f30f/img/services/api_200.png",
+  "keywords": ["nullpo", "LINE"],
+  "addons": ["fixie:tricycle"],
+  "env": {
+    "LINE_CHANNEL_ID": {
+      "description": "LINE Channel ID"
+    },
+    "LINE_CHANNEL_SECRET": {
+      "description": "LINE Channel Secret"
+    },
+    "LINE_CHANNEL_MID": {
+      "description": "LINE Channel MID"
+    }
+  }
+}
