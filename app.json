@@ -1,7 +1,7 @@
 {
   "name": "line-nullpo",
   "description": "nullpo watcher for LINE",
-  "repository": "https://github.com/qckanemoto/line-nullpo.git",
+  "repository": "https://github.com/ttskch/line-nullpo.git",
   "logo": "https://slack.global.ssl.fastly.net/f30f/img/services/api_200.png",
   "keywords": ["nullpo", "LINE"],
   "addons": ["fixie:tricycle"],
